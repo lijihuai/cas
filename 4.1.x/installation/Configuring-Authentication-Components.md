@@ -127,7 +127,7 @@ interest.
 
 There are some additional handlers for small deployments and special cases:
 
-* [Whilelist](Whitelist-Authentication.html)
+* [Whitelist](Whitelist-Authentication.html)
 * [Blacklist](Blacklist-Authentication.html)
 
 
